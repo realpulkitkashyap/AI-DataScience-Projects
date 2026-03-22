@@ -1,4 +1,4 @@
-# Financial Risk Analysis using Linear Algebra
+# Understanding Financial Market Dynamics through Linear Algebra
 
 ## Overview
 
